@@ -1,0 +1,12 @@
+.recipe-card{
+    margin:30px;
+    padding: 20px ;
+    border-color: black;
+}
+
+.item-img-top {
+height: 200px;
+width: 200px;
+border-radius: 3% ;
+
+}

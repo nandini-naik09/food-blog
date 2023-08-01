@@ -1,0 +1,177 @@
+{
+    "foodRecepies": [
+        {
+            "id": "1001",
+            "name": "Banana Pancakes",
+            "Ingredients": [
+                "1 large Banana",
+                "2 medium eggs",
+                "pinch Baking powder",
+                "1 tsp oil",
+                "25g Pecan Nuts",
+                "125g raspberries",
+                "spinkling Vanilla Extract"
+            ],
+            "Instructions": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil.Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate.Repeat the process with the remaining oil and batter.Top the pancakes with the pecans and raspberries.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg"
+        },
+        {
+            "id": "1002",
+            "name": "Big Mac",
+            "Ingredients": [
+                "400g Minced Beef",
+                "2 tbs Olive Oil",
+                "2 Sesame Seed Burger Buns",
+                "Chopped Onion",
+                "1/4 Iceberg Lettuce",
+                "2 sliced Cheese",
+                "2 large Dill Pickles",
+                "1 cup Mayonnaise",
+                "2 tsp White Wine Vinegar",
+                "Pinch Pepper",
+                "2 tsp Mustard",
+                "1 1/2 tsp Onion Salt",
+                "1 1/2 tsp Garlic Powder",
+                "1/2 tsp Paprika"
+            ],
+            "Instructions": "1.For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use. 2.To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each.Place each onto a square of baking paper and flatten to form into four x 15cm circles. Heat oil in a large frypan over high heat. In 2 batches, cook beef patties for 1-2 minutes each side until lightly charred and cooked through.Remove from heat and keep warm. Repeat with remaining two patties.3.Carefully slice each burger bun into three acrossways, then lightly toast. 4.To assemble the burgers, spread a little Big Mac sauce over the bottom base. Top with some chopped onion, shredded lettuce, slice of cheese, beef patty and some pickle slices. Top with the middle bun layer, and spread with more Big Mac sauce, onion, lettuce, pickles, beef patty and then finish with more sauce.Top with burger lid to serve.  5.After waiting half an hour for your food to settle, go for a jog.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg"
+        },
+        {
+            "id": "1003",
+            "name": "Chocolate Raspberry Brownies",
+            "Ingredients": [
+                "200g Dark Chocolate",
+                "100g Milk Chocolate",
+                "250g Salted Butter",
+                "400g Light Brown Soft Sugar",
+                "4 large Eggs",
+                "140g Plain Flour",
+                "50g Cocoa",
+                "200g Raspberries"
+            ],
+            "Instructions": "Heat oven to 180C/160C fan/gas 4.Line a 20 x 30cm baking tray tin with baking parchment.Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon.Remove from the heat.Stir the eggs, one by one, into the melted chocolate mixture.Sieve over the flour and cocoa, and stir in.Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries.Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more.Cool before slicing into squares.Store in an airtight container for up to 3 days.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg"
+        },
+        {
+            "id": "1004",
+            "name": "Carrot Cake",
+            "Ingredients": [
+                "450ml Vegetable Oil",
+                "400g Plain Flour",
+                "2 tsp Bicarbonate Of Soda",
+                "550ml Sugar",
+                "5 Eggs",
+                "½ tsp Salt",
+                "2 tsp Cinnamon",
+                "500g grated Carrots",
+                "150g Walnuts",
+                "200g Cream Cheese",
+                "150g Caster Sugar",
+                "100g Butter"
+            ],
+            "Instructions": "For the carrot cake, preheat the oven to 160C/325F/Gas 3.Grease and line a 26cm/10in springform cake tin.Mix all of the ingredients for the carrot cake, except the carrots and walnuts, together in a bowl until well combined.Stir in the carrots and walnuts.Spoon the mixture into the cake tin and bake for 1 hour 15 minutes, or until a skewer inserted into the middle comes out clean.Remove the cake from the oven and set aside to cool for 10 minutes, then carefully remove the cake from the tin and set aside to cool completely on a cooling rack.Meanwhile, for the icing, beat the cream cheese, caster sugar and butter together in a bowl until fluffy.Spread the icing over the top of the cake with a palette knife.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg"
+        },
+        {
+            "id": "1005",
+            "name": "Sushi",
+            "Ingredients": [
+                "300ml Sushi Rice",
+                "100ml Rice wine",
+                "2 tbs Caster Sugar",
+                "3 tbs Mayonnaise",
+                "1 tbs Soy Sauce",
+                "1 Cucumber"
+            ],
+            "Instructions": "STEP 1 TO MAKE SUSHI ROLLS: Pat out some rice.Lay a nori sheet on the mat, shiny-side down.Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.STEP 2 Spread over some Japanese mayonnaise.Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.STEP 3 Add the filling.Get your child to top the mayonnaise with a line of their favourite fillings – here we’ve used tuna and cucumber.STEP 4 Roll it up.Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.STEP 5 Stick down the sides like a stamp.When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.STEP 6 Wrap in cling film.Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.STEP 7 TO MAKE PRESSED SUSHI: Layer over some smoked salmon.Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.STEP 8 Cover with rice and press down.Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.STEP 9 Tip it out like a sandcastle.Turn block of sushi onto a chopping board.Get a grown-up to cut into fingers, then remove the cling film.STEP 10 TO MAKE SUSHI BALLS: Choose your topping.Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it.Use damp hands to roll walnut-sized balls of rice and place on the topping.STEP 11 Make into tight balls.Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+        },
+        {
+            "id": "1006",
+            "name": "Matar Paneer",
+            "Ingredients": [
+                "1 tbls Sunflower Oil",
+                "225g Paneer",
+                "2 Ginger",
+                "1 tsp Cumin",
+                "1 tsp Turmeric",
+                "1 tsp Coriander",
+                "1 Green Chilli",
+                "4 large Tomato",
+                "150g Peas",
+                "1 tsp Garam Masala",
+                "Small bunch Coriander",
+                "to serve Naan Bread"
+            ],
+            "Instructions": "Heat the oil in a frying pan over high heat until it’s shimmering hot.Add the paneer, then turn the heat down a little.Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away.Remove the paneer from the pan and drain on kitchen paper.Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min.Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant.Add a splash of water if it’s too thick.Season well.Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala.Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
+        },
+        {
+            "id": "1007",
+            "name": "Grilled Mac and Cheese Sandwich",
+            "Ingredients": [
+                "8 ounces (230 grams) Macaroni",
+                "1/3 cup Plain Flour",
+                "3/4 teaspoon Mustard Powder",
+                "1/2 teaspoon Garlic powder",
+                "1/2 teaspoon Kosher salt",
+                "1/2 teaspoon Black pepper",
+                "1/8 teaspoon Cayenne pepper",
+                "6 tablespoons (85 grams) Butter",
+                "1 1/2 cups (360 milliliters) Whole Milk",
+                "1 cup (240 milliliters) Heavy Cream",
+                "1 pound (455 grams) Monterey Jack Cheese",
+                "4 tablespoons (55 grams) Butter",
+                "1 teaspoon garlic powder",
+                "16 slices square Bread",
+                "8 slices mild Cheddar Cheese"
+            ],
+            "Instructions": "Make the mac and cheese 1.Bring a medium saucepan of generously salted water (you want it to taste like seawater) to a boil.Add the pasta and cook, stirring occasionally, until al dente, 8 to 10 minutes, or according to the package directions.The pasta should be tender but still chewy.2.While the pasta is cooking, in a small bowl, whisk together the flour, mustard powder, garlic powder, salt, black pepper, and cayenne pepper.3.Drain the pasta in a colander.Place the empty pasta pan (no need to wash it) over low heat and add the butter.When the butter has melted, whisk in the flour mixture and continue to cook, whisking frequently, until the mixture is beginning to brown and has a pleasant, nutty aroma, about 1 minute.Watch carefully so it does not scorch on the bottom of the pan.4.Slowly whisk the milk and cream into the flour mixture until everything is really well combined.Cook, whisking constantly, until the sauce is heated through and just begins to thicken, about 2 minutes.Remove from the heat.Gradually add the cheese while stirring constantly with a wooden spoon or silicone spatula and keep stirring until the cheese has melted into the sauce.]Then stir in the drained cooked pasta.5.Line a 9-by-13-inch (23-by-33-centimeter) rimmed baking sheet with parchment paper or aluminum foil.Coat the paper or foil with nonstick cooking spray or slick it with butter.Pour the warm mac and cheese onto the prepared baking sheet and spread it evenly with a spatula.Coat another piece of parchment paper with cooking spray or butter and place it, oiled or buttered side down, directly on the surface of the mac and cheese.Refrigerate until cool and firm, about 1 hour.Make the grilled cheese 6.Heat a large cast-iron or nonstick skillet over medium-low heat.7.In a small bowl, stir together the 4 tablespoons (55 grams) butter and garlic powder until well blended.8.Remove the mac and cheese from the refrigerator and peel off the top layer of parchment paper.Carefully cut into 8 equal pieces.Each piece will make 1 grilled mac and cheese sandwich.(You can stash each individual portion in a double layer of resealable plastic bags and refrigerate for up to 3 days or freeze it for up to 1 month.) 9.Spread 3/4 teaspoon garlic butter on one side of each bread slice.Place half of the slices, buttered-side down, on a clean cutting board.Top each with one slice of Cheddar, then 1 piece of the mac and cheese.(Transfer from the baking sheet by scooting your hand or a spatula under each piece of mac and cheese and then flipping it over onto a sandwich.) Place 1 slice of Jack on top of each.Finish with the remaining bread slices, buttered-side up.10.Using a wide spatula, place as many sandwiches in the pan as will fit without crowding it.Cover and cook until the bottoms are nicely browned, about 4 minutes.Turn and cook until the second sides are browned, the cheese is melted, and the mac and cheese is heated through, about 4 minutes more.11.Repeat with the remaining ingredients.Cut the sandwiches in half, if desired, and serve.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg"
+        },
+        {
+            "id": "1008",
+            "name": "Tandoori chicken",
+            "Ingredients": [
+                "2 Juice lemons",
+                "4 tsp paprika",
+                "2 finely chopped red onions",
+                "16 skinnless chicken thighs",
+                "For brushing vegetable oil",
+                "300ml Greek yogurt",
+                "large piece ginger",
+                "4 garlic clove",
+                "¾ tsp garam masala",
+                "¾ tsp ground cumin",
+                "½ tsp chilli powder",
+                "¼ tsp turmeric"
+            ],
+            "Instructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish.Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.Mix all of the marinade ingredients together and pour over the chicken.Give everything a good mix, then cover and chill for at least 1 hr.This can be done up to a day in advance.Heat the grill.Lift the chicken pieces onto a rack over a baking tray.Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+        },
+        {
+            "id": "1009",
+            "name": "Chicken Handi",
+            "Ingredients": [
+                "1.2 kg Chicken",
+                "5 thinly sliced Onion",
+                "2 finely chopped Tomatoes",
+                "8 cloves chopped Garlic",
+                "1 tbsp Ginger paste",
+                "¼ cup Vegetable oil",
+                "2 tsp Cumin seeds",
+                "3 tsp Coriander seeds",
+                "1 tsp Turmeric powder",
+                "1 tsp Chilli powder",
+                "2 Green chilli",
+                "1 cup Yogurt",
+                "¾ cup Cream",
+                "3 tsp Dried fenugreek",
+                "1 tsp Garam masala"
+            ],
+            "Instructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it.Once the oil is hot, add sliced onion and fry them until deep golden brown.Then take them out on a plate and set aside.To the same pot, add the chopped garlic and sauté for a minute.Then add the chopped tomatoes and cook until tomatoes turn soft.This would take about 5 minutes.Then return the fried onion to the pot and stir.Add ginger paste and sauté well.Now add the cumin seeds, half of the coriander seeds and chopped green chillies.Give them a quick stir.Next goes in the spices – turmeric powder and red chilli powder.Sauté the spices well for couple of minutes.Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through.This would take about 15 minutes.Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split.Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves.Mix well.Finally add the cream and give a final mix to combine everything well.Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis.Enjoy!",
+            "imageUrl": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+        }
+    ]
+}
